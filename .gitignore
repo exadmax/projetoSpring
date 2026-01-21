@@ -1,0 +1,40 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+*.iml
+*.iws
+
+# Build
+classes/
+out/
+
+# Logs
+*.log
+logs/
+
+# Database
+data/
+*.db
+*.sqlite
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
