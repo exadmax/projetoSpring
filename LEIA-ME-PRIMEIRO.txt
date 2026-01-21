@@ -30,6 +30,8 @@ Arquivos .TXT Removidos:
   📚 COMO NAVEGAR NA DOCUMENTAÇÃO
 ================================================================================
 
+👤 PARA USUÁRIOS:
+
 1️⃣ COMEÇAR AQUI:
    Abra: README.md
    └─ Visão geral do projeto
@@ -48,6 +50,29 @@ Arquivos .TXT Removidos:
 3️⃣ TESTAR A API:
    Abra: EXEMPLOS.md
    └─ Exemplos de cada endpoint
+   └─ Casos válidos e inválidos
+   └─ Respostas HTTP esperadas
+   └─ Script de teste completo
+
+🤖 PARA AGENTES IA E GITHUB COPILOT:
+
+⚠️  LEIA PRIMEIRO: AGENTS.md
+   └─ ⚠️ REGRA CRÍTICA: Codificação ISO-8859-1 obrigatória
+   └─ Arquitetura em camadas detalhada
+   └─ Padrões de código obrigatórios
+   └─ Validações em 3 camadas
+   └─ Checklist completo
+   └─ Erros comuns a evitar
+
+📋 REFERÊNCIA RÁPIDA: QUICKSTART-AGENTS.md
+   └─ Checklist resumido
+   └─ Ordem de leitura
+   └─ Comandos úteis
+
+⚙️  CONFIGURAÇÃO: .github/copilot-instructions.md
+   └─ Instruções específicas para GitHub Copilot
+   └─ Padrões de código
+   └─ Regras de validação
    └─ Casos válidos e inválidos
    └─ Respostas HTTP esperadas
    └─ Script de teste completo

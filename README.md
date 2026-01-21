@@ -105,8 +105,17 @@ com.endereco.catalogo/
 
 ## 📚 Documentação Completa
 
+### 📖 Para Usuários
+- **[README.md](README.md)** - Este arquivo (visão geral e início rápido)
 - **[DOCUMENTACAO.md](DOCUMENTACAO.md)** - Arquitetura detalhada, validações, fluxos
 - **[EXEMPLOS.md](EXEMPLOS.md)** - Exemplos de requisições e testes
+
+### 🤖 Para Agentes IA e GitHub Copilot
+- **[AGENTS.md](AGENTS.md)** - **Guia completo para agentes IA** (leia primeiro!)
+- **[QUICKSTART-AGENTS.md](QUICKSTART-AGENTS.md)** - Referência rápida
+- **[.github/copilot-instructions.md](.github/copilot-instructions.md)** - Instruções para GitHub Copilot
+
+> ⚠️ **Importante**: Todos os arquivos Java devem usar codificação **ISO-8859-1**
 
 ## 🎯 Características
 
